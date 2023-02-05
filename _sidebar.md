@@ -16,12 +16,6 @@
 * **IcrestSDK**
     * [IcrestSDK版本发布记录](zh-cn/IcrestSdkReleaseNote.md)
     * [IcrestSDK介绍](zh-cn/IcrestSdkIntruduction.md)
-    * [5G连接](zh-cn/configuration.md)
-    * [WIFI连接](zh-cn/configuration.md)
-    * [1.4GHz MESH连接](zh-cn/configuration.md)
-    * [二维码精准降落](zh-cn/configuration.md)
-    * [深度相机](zh-cn/configuration.md)
-    * [FPV可见光相机](zh-cn/configuration.md)
 * [**常见问题FAQ**](zh-cn/FAQ.md)
  
 * [**故障排查**](zh-cn/TroubleShooting.md)
