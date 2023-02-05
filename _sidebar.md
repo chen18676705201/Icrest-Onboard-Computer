@@ -13,8 +13,9 @@
 * [**系统配置**](zh-cn/SystemConfiguration.md)
 * [**系统镜像**](zh-cn/SystemImage.md)
 * [Mavlink API Reference](zh-cn/MAVLINK.md)
-* [IcrestSDK](zh-cn/IcrestSDK.md)
+* **IcrestSDK**
     * [IcrestSDK版本发布记录](zh-cn/IcrestSdkReleaseNote.md)
+    * [IcrestSDK介绍](zh-cn/IcrestSdkIntruduction.md)
     * [5G连接](zh-cn/configuration.md)
     * [WIFI连接](zh-cn/configuration.md)
     * [1.4GHz MESH连接](zh-cn/configuration.md)
